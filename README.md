@@ -1,2 +1,2 @@
-# mestrado
-Aplicações Desenvolvidas no Mestrado
+# Mestrado
+
