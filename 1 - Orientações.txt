@@ -1,0 +1,8 @@
+# Orientações
+
+O repositório contempla:
+- Script para criação do banco de dados;
+- Tabelas criadas com os respectivos registros;
+- Relatórios utilizados na aplicação da Grounded Theory;
+- Documentos gerados com a aplicação da metodologia.
+
